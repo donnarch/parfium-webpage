@@ -40,8 +40,8 @@ export default [
     vercel: "https://recipe-page-omeelete.vercel.app/",
   },
   {
-    title: "",
-    github: "",
-    vercel: "",
+    title: "Parfium pages",
+    github: "https://github.com/donnarch/parfium-webpage",
+    vercel: "https://parfium-webpage.vercel.app/",
   },
 ];
